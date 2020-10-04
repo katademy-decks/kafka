@@ -1,6 +1,6 @@
-# kafka-faq
+169 questions and answers about Apache Kafka and growing. Download the [flashcards](https://github.com/devsplit/kafka-faq/releases) for spaced repetition!
 
-Questions and answers about Apache Kafka, currently 169 and growing. [Flashcards](https://github.com/devsplit/kafka-faq/releases) included!
+# kafka-faq
 
 <details>
 <summary>When a _____ detects a quota violation, it computes and returns the amount of delay needed to bring the violating client under its quota. It then _____ to the client, refusing to process requests from it until the delay is over. The client will also refrain from sending further requests to the broker during the delay.&nbsp;</summary>
